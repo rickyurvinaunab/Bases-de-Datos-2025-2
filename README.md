@@ -1,6 +1,6 @@
 # Repositorio de códigos o material usado en el curso de Bases de Datos 2025-2
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![BDD Logo](https://github.com/rickyurvinaunab/Bases-de-Datos-2025-2/blob/master/images/base-de-datos.png?raw=true)
 
 ## Introducción
 
@@ -25,24 +25,20 @@ Cada carpeta dentro de la carpeta `clases` corresponde a una sesión específica
 
 1. **Clonar el Repositorio**: Clona el repositorio en tu máquina local utilizando el siguiente comando:
     ```bash
-    git clone https://github.com/rickyurvinaunab/IntroProgra-2025-1
+    git clone https://github.com/rickyurvinaunab/Bases-de-Datos-2025-2
     ```
 
 2. **Acceder a las Carpetas**: Navega a la carpeta del proyecto y accede a las subcarpetas correspondientes a clases, tareas o talleres. Por ejemplo:
     ```bash
-    cd https://github.com/rickyurvinaunab/IntroProgra-2025-1/clases/clase1
+    cd https://github.com/rickyurvinaunab/Bases-de-Datos-2025-2/clases/clase1
     ```
 
-3. **Ejecutar los Ejercicios**: Cada carpeta contiene scripts de Python con los ejercicios. Puedes ejecutar los scripts utilizando el siguiente comando:
-    ```bash
-    python nombre-del-script.py
-    ```
 
 ## Recursos Adicionales
 
-- **Documentación de Python**: [python.org/doc](https://docs.python.org/3/)
-- **Tutoriales de Python**: [w3schools.com/python](https://www.w3schools.com/python/)
-- **Comunidades de Python**: [reddit.com/r/learnpython](https://www.reddit.com/r/learnpython/)
+- **¿Qué son las bases de datos de SQL?**: [https://cloud.google.com/discover/what-are-sql-databases?hl=es](https://cloud.google.com/discover/what-are-sql-databases?hl=es)
+- **¿Qué es SQL Database?**: [https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-sql-database](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-sql-database)
+- **Introducción a las bases de datos con SQL Harvard**: [https://pll.harvard.edu/course/cs50s-introduction-databases-sql](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
 
 ## Contribuciones
 
@@ -57,4 +53,4 @@ Para cualquier consulta, puedes contactarme en:
 
 ---
 
-¡Esperamos que disfrutes aprendiendo Python y te diviertas resolviendo los ejercicios!
+¡Espero que disfrutes aprendiendo y te diviertas resolviendo los ejercicios!
